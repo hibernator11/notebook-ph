@@ -2,7 +2,7 @@
 
 
 # notebook-ph
-Colección de Jupyter Notebook para Programming Historian
+Colección de Jupyter Notebook para Programming Historian "Reutilizando colecciones digitales: GLAM Labs"
 
 
 ## Introducción
