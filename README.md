@@ -16,4 +16,4 @@ Esta colección está basada en [GLAM Jupyter Notebooks](http://data.cervantesvi
 
 ## References
 <a id="1">[1]</a> 
-Candela, G. et al. (2020) ‘Reusing digital collections from GLAM institutions’, Journal of Information Science. doi: 10.1177/0165551520950246.
+Candela, G. et al. (2020) ‘Reusing digital collections from GLAM institutions’, Journal of Information Science. doi: 10.1177/0165551520950246. Preprint version http://rua.ua.es/dspace/handle/10045/109460
