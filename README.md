@@ -21,3 +21,5 @@ Gustavo Candela, María Dolores Sáez, María Pilar Escobar, y Manuel Marco Such
 <a id="2">[2]</a> 
 Candela, G. et al. (2020) ‘Reusing digital collections from GLAM institutions’, Journal of Information Science. doi: 10.1177/0165551520950246. Preprint version http://rua.ua.es/dspace/handle/10045/109460
 
+<a id="e">[3]</a> 
+Gustavo Candela, María Dolores Sáez, María Pilar Escobar, & Manuel Marco-Such. (2021). hibernator11/notebook-ph: Release 1 (v1.0). Zenodo. https://doi.org/10.5281/zenodo.5340157
